@@ -8,7 +8,7 @@ gulp.task("build", function(){
     gulp
     .src("src/js/*.js")
     .pipe(jsx({
-        factory: "React.createClass"
+        factory: "React.createElement"
     }))
     .pipe(babel({
         presets: ['es2015']
