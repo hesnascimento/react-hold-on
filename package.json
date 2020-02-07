@@ -4,7 +4,7 @@
   "private": false,
   "description": "A React translate of jquery HoldOn.js plugin",
   "main": "dist/react-hold-on.min.js",
-  "autho": "Henrique Souza Nascimento",
+  "author": "Henrique Souza Nascimento",
   "license": "MIT",
   "homepage": "",
   "repository": {
